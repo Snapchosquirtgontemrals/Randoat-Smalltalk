@@ -1,2 +1,5 @@
-# Randoat-Smalltalk
-video chat platform allowing fifteen minutes of small talk nonsexual to bust the covid cobwebs off quarantine.
+# Randotes-Smalltalk
+video chat platform allowing fifteen minutes of non-sexual small talk to bust the covid cobwebs off quarantine.  Allocated in three five minute (ad-supported segments) that allow for three phases of interaction disengagement-chattanoogies-furtacts.
+
+I am lookin for programmers to develop and compile this collaboratively and generate revenue into an ad-supported 
+trust which can be rolled over into a royalty apportionment for collaborators, startup funds for further development, No NSA, CoIntelpro, or profile exploiting bots are are not invited there is no intent to store or maintain anyones information other then on their personal version of the app which can then contain preferences that a link can be anonymously matched from availabke users in torrent style where an interaction queue is drawn from and a videochat is initiated.  there are no bots, no paying for vacant old maid cards or ghost accounts; the app is random and only and always links to random and live people.  Aiming to be available internationally practicing social skills is cerebellum friendly, reduces isolation, and maintains safe and independent stimulus for millions of people who find casual conversation difficult or suspishy.
